@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/MinisterElection/bin/Debug/netcoreapp3.1/MinisterElection.deps.json
+/Users/migleczigergo/Projects/MinisterElection/bin/Debug/netcoreapp3.1/MinisterElection.runtimeconfig.json
+/Users/migleczigergo/Projects/MinisterElection/bin/Debug/netcoreapp3.1/MinisterElection.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/MinisterElection/bin/Debug/netcoreapp3.1/MinisterElection.dll
+/Users/migleczigergo/Projects/MinisterElection/bin/Debug/netcoreapp3.1/MinisterElection.pdb
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.AssemblyInfo.cs
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.dll
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.pdb
+/Users/migleczigergo/Projects/MinisterElection/obj/Debug/netcoreapp3.1/MinisterElection.genruntimeconfig.cache
